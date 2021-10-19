@@ -40,15 +40,15 @@ ___
 
 Below are a few in application screenshots.
 
-![screenshot](images/menu1.jpg)
+![screenshot](Images/menu1.jpg)
 ##### Fig 1. Main Menu. #####  
 ---
 
-![screenshot](images/learn.jpg)
+![screenshot](Images/learn.jpg)
 ##### Fig 2. Learn Mode. ##### 
 ---
 
-![screenshot](images/practice.jpg) <br/>
+![screenshot](Images/practice.jpg) <br/>
 ##### Fig 3. Practice Mode. ##### 
 ---
 
