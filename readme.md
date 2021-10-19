@@ -1,6 +1,6 @@
 Learn American Sign Language in VR
 ======================================
-<!-->![screenshot](images/mason-bradford-the-fifth-force-logo.jpg)</!-->
+![screenshot](Images/menu1.png)
 ## Introduction
 
 This repo is for Human Computer Interaction (HCI 434). The idea behind this application is to provide an immersive learning experience for people who are looking to 
@@ -40,7 +40,7 @@ ___
 
 Below are a few in application screenshots.
 
-![screenshot](Images/menu1.png)
+![screenshot](Images/menu2.png)
 ##### Fig 1. Main Menu. #####  
 ---
 
