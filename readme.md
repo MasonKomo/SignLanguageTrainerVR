@@ -3,8 +3,7 @@ Learn American Sign Language in VR
 ![screenshot](Images/menu1.png)
 ## Introduction
 
-This repo is for Human Computer Interaction (HCI 434). The idea behind this application is to provide an immersive learning experience for people who are looking to 
-learn or practice American Sign Language (ASL). To begin, using your left hand, hold up a 1 for Learn Mode, a 2 for Practice Mode, and a 3 for Freestyle mode. To confirm your 
+The idea behind this application is to provide an immersive learning experience for people who are looking to learn or practice American Sign Language (ASL). To begin, using your left hand, hold up a 1 for Learn Mode, a 2 for Practice Mode, and a 3 for Freestyle mode. To confirm your 
 selection, using your right hand, hold up a thumbs up gesture at the same time as your left hand is hold your selection. 
 
 To return to the menu, turn your left palm torwards your body and touch your index finger to your thumb!
